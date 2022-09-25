@@ -29,7 +29,7 @@ header{
 header div{
     width: 120px;
     margin: auto;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #1eb10a 0%, #b80303 50.52%, #0300cc 100%);
     border-radius: 50%;
     display: flex;  
     padding: 4px;
@@ -59,7 +59,7 @@ main {
 
 section{
     color: #FFFFFF;
-    background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    background-image: linear-gradient(90deg, #1eb10a 0%, #b80303 50.52%, #0300cc 100%);
     padding-top: 4px;
     border-radius: 10px;
 }
